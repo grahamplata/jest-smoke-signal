@@ -1,8 +1,9 @@
 {
-  "name": "jest-smoke-signal",
+  "name": "jest-slack-reporter",
   "version": "0.0.1",
   "description": "A jest plugin to send Slack messages about test results.",
-  "repository": "https://github.com/grahamplata/",
+  "repository": "https://github.com/grahamplata/jest-slack-reporter/",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p .",
