@@ -2,13 +2,10 @@
 
 A Jest reporter that shares it's results with a slack channel via webhooks
 
-![alternate text](https://via.placeholder.com/1280x400?text=Example+Slack+Notification)
-
 - [Jest Smoke Signal](#jest-smoke-signal)
   - [Highlights](#highlights)
   - [Install](#install)
   - [Usage](#usage)
-  - [Samples](#samples)
 
 ## Highlights
 
@@ -46,7 +43,3 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/XXXXXXXXXXXXX/YYYYYYYYYYYY
 # shell
 jest feature.test.js
 ```
-
-## Samples
-
-![alternate text](https://via.placeholder.com/1280x400?text=Example+Slack+Notification)
