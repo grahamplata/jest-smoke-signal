@@ -1,8 +1,8 @@
-# Jest Slack Reporter
+# Jest Smoke Signal
 
 A Jest reporter that shares it's results with a slack channel via webhooks
 
-- [Jest Slack Reporter](#jest-slack-reporter)
+- [Jest Smoke Signal](#jest-smoke-signal)
   - [Highlights](#highlights)
   - [Install](#install)
   - [Usage](#usage)
@@ -27,9 +27,9 @@ registry=https://npm.pkg.github.com/grahamplata
 > ```
 
 ```sh
-npm install --save-dev jest-slack-reporter
+npm install --save-dev jest-smoke-signal
 # or
-yarn add -D jest-slack-reporter
+yarn add -D jest-smoke-signal
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ yarn add -D jest-slack-reporter
 ```json
 // jest.config.ts / jest.config.js
 {
-  "reporters": ["default", "jest-slack-reporter"]
+  "reporters": ["default", "jest-smoke-signal"]
 }
 ```
 
