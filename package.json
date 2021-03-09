@@ -1,10 +1,10 @@
 {
-  "name": "@grahamplata/jest-slack-reporter",
-  "version": "0.1.1",
+  "name": "@grahamplata/jest-smoke-signal",
+  "version": "0.1.2",
   "description": "A Jest reporter to send Slack messages about test results.",
-  "homepage": "https://https://github.com/grahamplata/jest-slack-reporter",
+  "homepage": "https://https://github.com/grahamplata/jest-smoke-signal",
   "repository": {
-    "url": "https://github.com/grahamplata/jest-slack-reporter"
+    "url": "https://github.com/grahamplata/jest-smoke-signal"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -22,7 +22,7 @@
     "test",
     "slack",
     "smoke-test",
-    "jest-slack-reporter"
+    "jest-smoke-signal"
   ],
   "author": "Graham Plata",
   "license": "MIT",
