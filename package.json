@@ -21,7 +21,8 @@
     "jest",
     "test",
     "slack",
-    "smoke-test"
+    "smoke-test",
+    "jest-slack-reporter"
   ],
   "author": "Graham Plata",
   "license": "MIT",
