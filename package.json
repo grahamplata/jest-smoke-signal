@@ -1,6 +1,6 @@
 {
   "name": "@grahamplata/jest-slack-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Jest reporter to send Slack messages about test results.",
   "homepage": "https://https://github.com/grahamplata/jest-slack-reporter",
   "repository": {
